@@ -36,5 +36,3 @@ python3 main.py
 ## Должно открыться такое окно:
 
 <img width="793" height="596" alt="image" src="https://github.com/user-attachments/assets/51fa8f3b-1a25-4bec-a8b8-96e5d6e2a57b" />
-
-_**Примечание:** папка 'venv' не удалена из репозитория специально_
