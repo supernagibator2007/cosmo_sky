@@ -16,22 +16,23 @@
 
 ## Запуск:
 
+Версия Python - 3.13 или 3.12
+
 ### Для Windows:
 ```bash
+python -m venv venv
 source venv/Scripts/activate
+pip install -r requirements.txt
 python main.py
 ```
 
 ### Для Linux / macOS:
 ```bash
+python3 -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
 python3 main.py
 ```
-
-> Если используете не встроенное виртуальное окружение, не забудьте установить библиотеки:
->```bash
->pip install -r requirements.txt
->```
 
 ## Должно открыться такое окно:
 
